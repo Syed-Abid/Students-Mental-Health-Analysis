@@ -18,11 +18,11 @@ Explore the depths of mental well-being with "Students Mental Health Analysis"! 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/PRODIGY_DS_01.git
+    git clone https://github.com/Syed-Abid/Students-Mental-Health-Analysis.git
     ```
 
 2. **Explore with Power BI:**
-    - Open `PowerBI/world_bank_analysis_dashboard.pbix` in Power BI for an interactive experience.
+    - Open `PowerBI/Student Mental Health Dashboard.pbix` in Power BI for an interactive experience.
 
 3. **Analyze with SQL:**
     - Dive into the SQL analysis by checking out `SQL/world_bank_analysis.sql`.
