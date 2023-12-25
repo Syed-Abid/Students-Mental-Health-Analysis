@@ -22,10 +22,10 @@ Explore the depths of mental well-being with "Students Mental Health Analysis"! 
     ```
 
 2. **Explore with Power BI:**
-    - Open `PowerBI/Student Mental Health Dashboard.pbix` in Power BI for an interactive experience.
+    - Open `Student Mental Health Dashboard.pbix` in Power BI for an interactive experience.
 
 3. **Analyze with SQL:**
-    - Dive into the SQL analysis by checking out `SQL/world_bank_analysis.sql`.
+    - Dive into the SQL analysis by checking out `Student Mental Health Analysis.sql`.
 
 ## 🤝 Contributing
 
